@@ -1,6 +1,6 @@
-# tech-toys-scratch2
+# tech-toys
 
-![tech-toys-scratch2](banner.png)
+![tech-toys](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/tech-toys-scratch2](https://projects.raspberrypi.org/en/projects/tech-toys-scratch2)
 
