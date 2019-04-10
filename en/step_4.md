@@ -10,7 +10,7 @@ Let's start by broadcasting a `start`{:class="blockevents"} message when the lap
 
 ```blocks
 when this sprite clicked
-play sound [computer beeps1]
+play sound [computer beeps1 v]
 broadcast [start v]
 ```
 
